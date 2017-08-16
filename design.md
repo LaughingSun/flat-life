@@ -39,15 +39,16 @@ either dominance or availability is equal.  If there is no space for offspring
 then none will be produced.  Gender identity is simply 2 roles, either Seed or 
 Host.
 
-SIDES IDENTITY  CHANGABLE
-   3  no        availability/no
-   4  yes       dominance
-   5  no        availability/no
-   6  yes       no
-   7  no        dominance/no
-   8  yes       availability
-   9  no        no
-  10  yes       dominance
+SIDES | IDENTITY | CHANGABLE
+----- | -------- | ---------
+   3  | no       | availability/no
+   4  | yes      | dominance
+   5  | no       | availability/no
+   6  | yes      | no
+   7  | no       | dominance/no
+   8  | yes      | availability
+   9  | no       | no
+  10  | yes      | dominance
 
 Interaction
 ============
